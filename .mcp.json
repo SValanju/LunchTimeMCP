@@ -1,0 +1,16 @@
+{
+  "inputs": [],
+  "servers": {
+    "lunchTimeMCP": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "LunchTimeMCP.csproj",
+        "--configuration",
+        "Release"
+      ]
+    }
+  }
+}

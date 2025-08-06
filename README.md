@@ -17,7 +17,7 @@ LunchTimeMCP is a .NET 9 server application designed to help teams decide where 
 
 1. **Clone the repository**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/SValanju/LunchTimeMCP.git
    cd LunchTimeMCP
    ```
 
